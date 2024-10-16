@@ -27,13 +27,12 @@
             "content": [
                 {
                     "type": "dock",
-                    "dock": "left",
-                    "v_alignment": "stretch",
+                    "dock": "bottom",
                     "content": [
                         {
                             "type": "group",
                             "header": "Forms",
-                            "dock": "top",
+                            "dock": "left",
                             "content": {
                                 "type": "layout",
                                 "key": "forms"
@@ -42,7 +41,7 @@
                         {
                             "type": "group",
                             "header": "Transturtles",
-                            "dock": "top",
+                            "dock": "left",
                             "content": {
                                 "type": "layout",
                                 "key": "turtles"
@@ -51,7 +50,7 @@
                         {
                             "type": "group",
                             "header": "Misc Progression",
-                            "dock": "top",
+                            "dock": "left",
                             "content": {
                                 "type": "layout",
                                 "key": "misc"
@@ -60,7 +59,7 @@
                         {
                             "type": "group",
                             "header": "Useful Items",
-                            "dock": "top",
+                            "dock": "left",
                             "content": {
                                 "type": "layout",
                                 "key": "useful"
@@ -69,7 +68,7 @@
                         {
                             "type": "group",
                             "header": "Tracker Settings",
-                            "dock": "top",
+                            "dock": "left",
                             "content": {
                                 "type": "layout",
                                 "key": "quicksettings"

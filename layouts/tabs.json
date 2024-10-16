@@ -1,15 +1,185 @@
 {
-    "tabbed_maps_horizontal": {
+    "tabs": {
         "type": "tabbed",
-        "tabs": [
+        "dock": "top",
+        "content": [
             {
                 "title": "Aquaria",
+                "type": "array",
                 "content": {
                     "type": "map",
                     "maps": [
                         "Aquaria"
                     ]
                 }
+            },
+            {
+                "title": "Subareas",
+                "type": "tabbed",
+                "tabs": [
+                    {
+                        "title": "Verse Cave",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "versecave"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Home Water",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "homewater"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Naija's Home",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "naijashome"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Song Cave",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "songcave"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Energy Temple",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "energytemple"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Open Water",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "openwater"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Mithalas City",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "mithalascity"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Mithalas City Castle",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "mithalascitycastle"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Mithalas Cathedral",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "mithalascathedral"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Cathedral Underground",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "cathedralunderground"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Kelp Forest",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "kelpforest"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Veil",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "theveil"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Sun Temple",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "suntemple"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Arnassi Ruins",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "arnassiruins"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Abyss",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "abyss"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Ice Cave",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "icecave"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Sunken City",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "sunkencity"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Body",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "thebody"
+                            ]
+                        }
+                    }
+                ]
             }
         ]
     }
